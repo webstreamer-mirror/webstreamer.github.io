@@ -12,5 +12,5 @@ Our vision is to write once, render anywhere.
 
 After more than a years investiagation and verification, we have a prototype for reatime (with WebRTC) and live (HLS) media system to proof the concept. For now, we have almost near end of the POC (proof of concept) and coming into MVP (minimum viable product) plan work.
 
-The features of MVP details please see [epics](./epics/readme.md)
+The features of MVP details please see [epics](./epics/README.md)
 
