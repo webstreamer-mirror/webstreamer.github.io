@@ -1,4 +1,6 @@
-![logo](./draw.io/logo.png)
+
+# ![logo](./draw.io/logo.png)
+###### webstreamer is a project of [kedacom](www.kedacom.com)
 
 
 Welcome to WebStreamer, a full stack solution for multimedia application. We focus on multimeida software development and operations to facilitate more rapid of your business growth.
