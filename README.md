@@ -1,17 +1,6 @@
 
 # Webstreamer
-<table>
-  <tr>
-    <td align="left">
-    <img src="./draw.io/logo.png"  alt="Webstreamer" />
-    </td>
-    <td>
-    <td color="gray" align="right">
-    <a href="http://www.kedacom.com">
-    webstreamer is a project of KEDACOM
-    </td>
-  </tr>
-</table>
+![WebStreamer](./draw.io/logo.png)  [ *is a project of KEDACOM* ](http://www.kedacom.com)
 
 Welcome to WebStreamer, a full stack solution for multimedia application. We focus on multimeida software development and operations to facilitate more rapid of your business growth.
 
