@@ -1,4 +1,4 @@
-# anlaysis of audio/video stream
+# Anlaysis of audio/video stream
 
 a typical test enviroment as below
 ![deploy](./draw.io/004-analyzer-deploy.png)
@@ -19,7 +19,7 @@ As a streaming media system tester, I want to test the audio validity for some k
 As a streaming media system tester, I want to test the time between audio generate to the rendering at last, So that I can calc the latency of audio system.
 
 
-### 2. Video codec validity
+## 2. Video codec validity
 
 The system (Camera) under test does codec with the specific video source and outputs the result to test system (Tester), then the test system compares the video source and result.
 
@@ -38,6 +38,8 @@ As a streaming media system tester, I want to test the time between video genera
 ## 3. Audio and video sync check
 
 In the streaming media system, the audio/video's codec and tranport are separated usually , the audio and video lantency are different. If the diffence is larg, as a consequence what you heared would not you see.
+
+### Scenarios/User story
 
 #### b) Audio and video sync the media system
 As a streaming media system tester, I want to test the time between video and audio asynchronization, so that I can tell if the system is work for user.
