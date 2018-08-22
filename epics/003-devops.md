@@ -25,45 +25,45 @@
 Software installed \ Service | Jenkins | JFrog Artifactory | GitLab | Docker | Vagrant | Delay Tester
 -----------------------------|:-------:|:-----------------:|:------:|:------:|:-------:|:------------:
 __Operating System__||||||
-ubuntu-16.04.5-server|||*|*||
-Windows 7 Service Pack 1|*|*|||*|
+ubuntu-16.04.5-server|||__*__|__*__||
+Windows 7 Service Pack 1|__*__|__*__|||__*__|
 __Tools__||||||
-Jenkins 2.121.3|*|||||
-Git 2.18.0|*|||||
-Gitlab CE 11.1.4|||*|||
-Java SE Development Kit 8u181||*||||
-Google Chrome 68.0||*||||
-JFrog Artifactory Pro 6.2.0||*||||
-Docker 18.03.0~ce-0~ubuntu_amd64||||*||
-Vagrant 2.1.1|||||*|
-VirtualBox 5.2.12|||||*|
-Windows PowerShell 3.0|||||*|
+Jenkins 2.121.3|__*__|||||
+Git 2.18.0|__*__|||||
+Gitlab CE 11.1.4|||__*__|||
+Java SE Development Kit 8u181||__*__||||
+Google Chrome 68.0||__*__||||
+JFrog Artifactory Pro 6.2.0||__*__||||
+Docker 18.03.0~ce-0~ubuntu_amd64||||__*__||
+Vagrant 2.1.1|||||__*__|
+VirtualBox 5.2.12|||||__*__|
+Windows PowerShell 3.0|||||__*__|
 
 ## DevOps software environment configuration matrix
 Software installed \ Worker image | Ubuntu16.04   | Windows7
 :----------------------------------|:-------------:|:---------:
 __Operating System__||
-ubuntu-16.04.5-desktop|*|
-Windows 7 Service Pack 1||*
+ubuntu-16.04.5-desktop|__*__|
+Windows 7 Service Pack 1||__*__
 __PowerShell__||
-Windows PowerShell 5.1||*
+Windows PowerShell 5.1||__*__
 __.Net Framework__||
-.Net Framework 4.7.2||*
+.Net Framework 4.7.2||__*__
 __Visual Studio 2015__||
-Visual Studio Community 2015 with Update 3||*
+Visual Studio Community 2015 with Update 3||__*__
 __Version Control__||
-Git 2.18.0|*|*
-Git Large File Storage 2.5.1|*|*
+Git 2.18.0|__*__|__*__
+Git Large File Storage 2.5.1|__*__|__*__
 __Node.js__||
-Node.js 8.11.4 LTS|*|*
+Node.js 8.11.4 LTS|__*__|__*__
 __Python__||
-Python 2.7.15|*|*
-Python 3.7.0|*|*
+Python 2.7.15|__*__|__*__
+Python 3.7.0|__*__|__*__
 __Selenium__||
-[Google ChromeDriver 2.41](https://sites.google.com/a/chromium.org/chromedriver/downloads)|*|*
-[Firefox GeckoDriver 0.21.0](https://github.com/mozilla/geckodriver/releases)|*|*
+[Google ChromeDriver 2.41](https://sites.google.com/a/chromium.org/chromedriver/downloads)|__*__|__*__
+[Firefox GeckoDriver 0.21.0](https://github.com/mozilla/geckodriver/releases)|__*__|__*__
 __Web Browser__||
-Chrome 68.0|*|*
-Firefox 61.0.2|*|*
+Chrome 68.0|__*__|__*__
+Firefox 61.0.2|__*__|__*__
 __Tools__||
-CMake 3.12.1|*|*
+CMake 3.12.1|__*__|__*__
