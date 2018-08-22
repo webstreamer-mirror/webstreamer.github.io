@@ -25,45 +25,45 @@
 Software installed \ Service | Jenkins | JFrog Artifactory | GitLab | Docker | Vagrant | Delay Tester
 -----------------------------|:-------:|:-----------------:|:------:|:------:|:-------:|:------------:
 __Operating System__||||||
-ubuntu-16.04.5-server|||<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">||
-Windows 7 Service Pack 1|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">|||<input type="checkbox" checked="checked">|
+ubuntu-16.04.5-server|||*|*||
+Windows 7 Service Pack 1|*|*|||*|
 __Tools__||||||
-Jenkins 2.121.3|<input type="checkbox" checked="checked">|||||
-Git 2.18.0|<input type="checkbox" checked="checked">|||||
-Gitlab CE 11.1.4|||<input type="checkbox" checked="checked">|||
-Java SE Development Kit 8u181||<input type="checkbox" checked="checked">||||
-Google Chrome 68.0||<input type="checkbox" checked="checked">||||
-JFrog Artifactory Pro 6.2.0||<input type="checkbox" checked="checked">||||
-Docker 18.03.0~ce-0~ubuntu_amd64||||<input type="checkbox" checked="checked">||
-Vagrant 2.1.1|||||<input type="checkbox" checked="checked">|
-VirtualBox 5.2.12|||||<input type="checkbox" checked="checked">|
-Windows PowerShell 3.0|||||<input type="checkbox" checked="checked">|
+Jenkins 2.121.3|*|||||
+Git 2.18.0|*|||||
+Gitlab CE 11.1.4|||*|||
+Java SE Development Kit 8u181||*||||
+Google Chrome 68.0||*||||
+JFrog Artifactory Pro 6.2.0||*||||
+Docker 18.03.0~ce-0~ubuntu_amd64||||*||
+Vagrant 2.1.1|||||*|
+VirtualBox 5.2.12|||||*|
+Windows PowerShell 3.0|||||*|
 
 ## DevOps software environment configuration matrix
 Software installed \ Worker image | Ubuntu16.04   | Windows7
 :----------------------------------|:-------------:|:---------:
 __Operating System__||
-ubuntu-16.04.5-desktop|<input type="checkbox" checked="checked">|
-Windows 7 Service Pack 1||<input type="checkbox" checked="checked">
+ubuntu-16.04.5-desktop|*|
+Windows 7 Service Pack 1||*
 __PowerShell__||
-Windows PowerShell 5.1||<input type="checkbox" checked="checked">
+Windows PowerShell 5.1||*
 __.Net Framework__||
-.Net Framework 4.7.2||<input type="checkbox" checked="checked">
+.Net Framework 4.7.2||*
 __Visual Studio 2015__||
-Visual Studio Community 2015 with Update 3||<input type="checkbox" checked="checked">
+Visual Studio Community 2015 with Update 3||*
 __Version Control__||
-Git 2.18.0|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
-Git Large File Storage 2.5.1|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
+Git 2.18.0|*|*
+Git Large File Storage 2.5.1|*|*
 __Node.js__||
-Node.js 8.11.4 LTS|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
+Node.js 8.11.4 LTS|*|*
 __Python__||
-Python 2.7.15|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
-Python 3.7.0|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
+Python 2.7.15|*|*
+Python 3.7.0|*|*
 __Selenium__||
-[Google ChromeDriver 2.41](https://sites.google.com/a/chromium.org/chromedriver/downloads)|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
-[Firefox GeckoDriver 0.21.0](https://github.com/mozilla/geckodriver/releases)|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
+[Google ChromeDriver 2.41](https://sites.google.com/a/chromium.org/chromedriver/downloads)|*|*
+[Firefox GeckoDriver 0.21.0](https://github.com/mozilla/geckodriver/releases)|*|*
 __Web Browser__||
-Chrome 68.0|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
-Firefox 61.0.2|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
+Chrome 68.0|*|*
+Firefox 61.0.2|*|*
 __Tools__||
-CMake 3.12.1|<input type="checkbox" checked="checked">|<input type="checkbox" checked="checked">
+CMake 3.12.1|*|*
