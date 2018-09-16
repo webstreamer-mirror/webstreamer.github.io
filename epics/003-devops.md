@@ -8,3 +8,5 @@ Webstreamer is  a project  to make the multimedia development easy. To meet such
 
 * effectivity docs to guide others work on the delivered job.
 
+for now, DevOps is become very hot, we have some solution on this requiremnt. 
+see [Webstreamer DevOps Design](../docs/devops/webstreamer-devops-design.md)
