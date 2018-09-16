@@ -4,7 +4,7 @@ Webstreamer is  a project  to make the multimedia development easy. To meet such
 
 *  as an open source project, every one should easy to get the source code (as we use git ,this has been solved.)
 
-* every body has the some build and runing enviroment, so that easy to test, debug, and reproduce issue.
+* every body has the same build and runing enviroment, so that easy to test, debug, and reproduce issue.
 
 * effectivity docs to guide others work on the delivered job.
 
