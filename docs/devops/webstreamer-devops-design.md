@@ -112,6 +112,17 @@ Firefox GeckoDriver          | 0.21.0
 Chrome                       | 68.0
 Firefox                      | 61.0.2
 
+Software installed \ Version | 0.2(amd64)
+:----------------------------|:----
+Windows                      | Server 2012 R2 Standard Build 9600
+Windows SDK                  | Windows 10.0.17763.132
+Visual Studio                | Community 2017
+Git                          | 2.21.0
+Python                       | 3.7.2
+CMake                        | 3.13.4
+Conan                        | 1.12.3
+conan-package-tools          | 0.23.0
+
 #### Conan(D)
 Software installed \ Version | 0.1
 :----------------------------|:----
